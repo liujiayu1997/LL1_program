@@ -19,7 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main2.cpp" />
+    <ClCompile Include="append.cpp" />
+    <ClCompile Include="dfs.cpp" />
+    <ClCompile Include="first.cpp" />
+    <ClCompile Include="follow.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="make_table.cpp" />
+    <ClCompile Include="make_VN.cpp" />
+    <ClCompile Include="print.cpp" />
+    <ClCompile Include="remove_left.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LL1.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C91F3504-7DF1-4638-91E1-E31D59279AC6}</ProjectGuid>
